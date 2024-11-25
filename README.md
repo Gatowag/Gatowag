@@ -5,6 +5,7 @@ I helped establish popular youtube series [Modern Rogue](https://youtube.com/mod
 I've only stumbled into programming through various spaces — first through After Effects scripting, then StreamDeck macros, modifying the firmware on my mechanical keyboard, and building spreadsheet scripts through Apps Script. I don't have formal programming education, I just teach myself what I need to know to build projects that I find useful.
 
 You can also find me on:
-- [cohost](https://cohost.org/brandt)
-- [twitch](https://twitch.tv/gatowag)
-- [patreon](https://patreon.com/emergentbeacon) *- for my youtube series*
+- [website](https://emergentbeacon.com)
+- [sci comm youtube](https://youtube.com/emergentbeacon)
+- [personal youtube](https://youtube.com/gatowag)
+- [patreon](https://patreon.com/emergentbeacon)
